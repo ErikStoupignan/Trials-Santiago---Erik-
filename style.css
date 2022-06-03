@@ -1,0 +1,10 @@
+#navbar {
+    position:fixed;
+    border: 5px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+#welcome-section {
+    height: 1000px;
+}
