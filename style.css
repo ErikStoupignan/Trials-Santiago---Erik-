@@ -47,3 +47,8 @@ a {
     display: inline;
  }
 
+ @media only screen and (width: 600px ) {
+     body{
+         background-color: white;
+     }
+ }
